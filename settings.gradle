@@ -1,0 +1,5 @@
+rootProject.name = 'gradleEx'
+include 'db'
+include 'api'
+include 'service'
+
